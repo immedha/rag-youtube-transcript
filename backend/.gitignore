@@ -11,6 +11,9 @@
 # production
 /build
 
+/chroma
+/uploads
+
 # misc
 .DS_Store
 .env.local

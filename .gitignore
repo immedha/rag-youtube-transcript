@@ -40,3 +40,4 @@ yarn.lock
 *.swp
 *.swo
 .vscode
+chroma
