@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 The rest of this page are the automatically created README notes when I created this app. But here are my written ones:
-- cd into frontend and backend repos and run `npm start`. 
+- cd into frontend and backend repos and run `npm start`.
 - make sure openai key is given in .env file with name `OPENAI_API_KEY`.
 
 Here are the automatically created README notes:
